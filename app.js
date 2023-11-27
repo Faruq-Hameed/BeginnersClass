@@ -1,4 +1,4 @@
 const message = "hello world"
-const greetingsFun = (message, name) =>{
+const greetings = (message, name) =>{
   return `${message} from ${name}`
 }
